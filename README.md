@@ -1,6 +1,6 @@
 # SpringBoot, Jwt, Paypal Integration, Email confirmation
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231FFF0F&lines=SPRING-BOOT-JWT-EMAIL-PAYPAL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C040&lines=SPRING-BOOT-JWT-EMAIL-PAYPAL)](https://git.io/typing-svg)
 
 
 The goal of this project is to implement an application called `springboot-tasks` to manage your To-Do Tasks. Back-end `Spring Boot` using `Maven` build tool. The project uses [`JWT Authentication`](https://en.wikipedia.org/wiki/JSON_Web_Token) to secure application Users.
