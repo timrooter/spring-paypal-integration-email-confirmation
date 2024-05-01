@@ -10,12 +10,12 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
-    password: 1953
+    password:
   mail:
     host: live.smtp.mailtrap.io # mailtrap.io smtp server
     port: 587
     username: api
-    password: a248a338947729596c7510f7d28bc186
+    password: a248a338947729596c7510f7d28bc18
     properties:
       mail:
         smtp:
@@ -40,7 +40,7 @@ logging:
     # org.hibernate.SQL: DEBUG
 
 paypal:
-  client-id: AU06lIPNQMm0onL8NczeNhNE3OhQgm4R31VSqnzbRIQIWYeZSAC1dwvAqTEfNzU_c68it7yVvkzSM99H
-  client-secret: ECdPA1hUYLd2ZqOGCgEDkqjskLNad2qM3499U1O0jtS0tWfUL92bghI03Zkd6ZMU-rOv9r9d1t4YQ9UN
+  client-id: AU06lIPNQMm0onL8NczeNhNE3OhQgm4R31VSqnzbRIQIWYeZSAC1dwvAqTEfNzU_c68it7yVvkzSM99
+  client-secret: ECdPA1hUYLd2ZqOGCgEDkqjskLNad2qM3499U1O0jtS0tWfUL92bghI03Zkd6ZMU-rOv9r9d1t4YQ9U
   mode: sandbox # Use #sandbox' for testing and 'live' for Production
 
