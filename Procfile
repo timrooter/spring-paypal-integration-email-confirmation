@@ -1,0 +1,1 @@
+web: java -jar target/springboot-tasks-0.0.1-SNAPSHOT.jar
